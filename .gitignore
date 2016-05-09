@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vagrant Files
 .vagrant
 *.box
@@ -26,3 +27,8 @@ index.html
 .DS_Store
 Thumbs.db
 logs
+=======
+node_modules
+*.log
+lib
+>>>>>>> b680b4e3a76990ae0c78461a8f5b97e07c89a7db
